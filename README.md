@@ -27,22 +27,21 @@
 ## 📂 Project Structure
 
 PGLife/
-│
-├── api/                   # API endpoints for backend
-├── css/                   # Stylesheets
-├── img/                   # Images used in website
-├── includes/              # PHP includes (DB connection, functions)
-├── js/                    # JavaScript files
-├── react-app/             # React version of the project
-├── .git/                  # Git repository folder
-├── .gitattributes         # Git attributes file
-├── dashboard.php          # User dashboard page
-├── favicon.ico            # Website favicon
-├── index.php              # Home page
-├── logout.php             # Logout script
-├── property_detail.php    # Property details page
-├── property_list.php      # Property listing page
-├── property_list_without_react.php # Property listing without React
+├── api/ # API endpoints for backend
+├── css/ # Stylesheets
+├── img/ # Images used in website
+├── includes/ # PHP includes (DB connection, functions)
+├── js/ # JavaScript files
+├── react-app/ # React version of the project
+├── .git/ # Git repository folder
+├── .gitattributes # Git attributes file
+├── dashboard.php # User dashboard page
+├── favicon.ico # Website favicon
+├── index.php # Home page
+├── logout.php # Logout script
+├── property_detail.php # Property details page
+├── property_list.php # Property listing page
+└── property_list_without_react.php # Property listing without React
 
 ---
 
