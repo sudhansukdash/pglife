@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - Browse properties by city and availability  
 - View detailed property descriptions and amenities  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React (for the React version)  
 - **Backend:** PHP  
@@ -24,8 +24,8 @@
 
 ---
 
-## 📂 Project Structure
-
+## Project Structure
+```
 PGLife/
 ├── api/ # API endpoints for backend
 ├── css/ # Stylesheets
@@ -42,10 +42,10 @@ PGLife/
 ├── property_detail.php # Property details page
 ├── property_list.php # Property listing page
 └── property_list_without_react.php # Property listing without React
-
+```
 ---
 
-## 💻 Setup Instructions
+## Setup Instructions
 
 1. Clone this repository.  
 2. Place the folder inside XAMPP `htdocs`.  
@@ -57,7 +57,7 @@ PGLife/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sudhansu Kumar Dash**  
 - GitHub: [https://github.com/sudhansukdash](https://github.com/sudhansukdash)
@@ -66,4 +66,4 @@ PGLife/
 
 ## 📸 Screenshots
 
-*(Screenshots can be added later in the `screenshots/` folder and referenced here)*
+
